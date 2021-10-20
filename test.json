@@ -803,7 +803,7 @@
 						"name": "Phil Parker",
 						"contractYear": "0"
 					},
-					"rival": "ILL",
+					"rival": "PSU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -977,7 +977,7 @@
 				},
 				{
 					"abbreviation": "PSU",
-					"prestige": "83",
+					"prestige": "82",
 					"hexColor": "#041E42",
 					"offCoordinator": {
 						"contractLength": "3",
