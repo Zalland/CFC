@@ -20,7 +20,7 @@
 "confTeams" : [
 {
 "abbreviation" : "BAMA",
-"prestige" : "92",
+"prestige" : "95",
 "hexColor" : "#9E1B32",
 "rivalryNames" : {
 
@@ -60,13 +60,13 @@
 "contractLength" : "6",
 "startYear" : "2021",
 "age" : "69",
-"ratOff" : "71",
+"ratOff" : "95",
 "cumulativePrestige" : "25",
-"ratDef" : "66",
+"ratDef" : "95",
 "homeState" : "New Jersey",
-"ratPot" : "58",
+"ratPot" : "95",
 "hometown" : "Mesquite",
-"ratTalent" : "91",
+"ratTalent" : "95",
 "baselinePrestige" : "92",
 "name" : "Nick Saban",
 "contractYear" : "1"
@@ -76,7 +76,7 @@
 },
 {
 "abbreviation" : "UF",
-"prestige" : "87",
+"prestige" : "77",
 "hexColor" : "#0021A5",
 "rivalryNames" : {
 
@@ -132,7 +132,7 @@
 },
 {
 "abbreviation" : "LSU",
-"prestige" : "85",
+"prestige" : "79",
 "hexColor" : "#461D7C",
 "rivalryNames" : {
 
@@ -188,7 +188,7 @@
 },
 {
 "abbreviation" : "UGA",
-"prestige" : "89",
+"prestige" : "92",
 "hexColor" : "#BA0C2F",
 "rivalryNames" : {
 
@@ -208,7 +208,7 @@
 "contractYear" : "1"
 },
 "rival" : [
-"TENN"
+"UK"
 ],
 "defCoordinator" : {
 "contractLength" : "3",
@@ -228,13 +228,13 @@
 "contractLength" : "6",
 "startYear" : "2021",
 "age" : "45",
-"ratOff" : "58",
+"ratOff" : "90",
 "cumulativePrestige" : "25",
-"ratDef" : "63",
+"ratDef" : "89",
 "homeState" : "Georgia",
-"ratPot" : "67",
+"ratPot" : "85",
 "hometown" : "Kyles Ford",
-"ratTalent" : "57",
+"ratTalent" : "86",
 "baselinePrestige" : "89",
 "name" : "Kirby Smart",
 "contractYear" : "1"
@@ -244,7 +244,7 @@
 },
 {
 "abbreviation" : "AUB",
-"prestige" : "80",
+"prestige" : "84",
 "hexColor" : "#0C2340",
 "rivalryNames" : {
 
@@ -300,7 +300,7 @@
 },
 {
 "abbreviation" : "TENN",
-"prestige" : "70",
+"prestige" : "73",
 "hexColor" : "#FF8200",
 "rivalryNames" : {
 
@@ -320,7 +320,7 @@
 "contractYear" : "1"
 },
 "rival" : [
-"UGA"
+"VAND"
 ],
 "defCoordinator" : {
 "contractLength" : "3",
@@ -356,7 +356,7 @@
 },
 {
 "abbreviation" : "MISS",
-"prestige" : "65",
+"prestige" : "83",
 "hexColor" : "#14213D",
 "rivalryNames" : {
 
@@ -412,7 +412,7 @@
 },
 {
 "abbreviation" : "MSST",
-"prestige" : "60",
+"prestige" : "67",
 "hexColor" : "#660000",
 "rivalryNames" : {
 
@@ -468,7 +468,7 @@
 },
 {
 "abbreviation" : "UK",
-"prestige" : "59",
+"prestige" : "80",
 "hexColor" : "#0033A0",
 "rivalryNames" : {
 
@@ -488,7 +488,7 @@
 "contractYear" : "1"
 },
 "rival" : [
-"VAND"
+"UGA"
 ],
 "defCoordinator" : {
 "contractLength" : "3",
@@ -544,7 +544,7 @@
 "contractYear" : "1"
 },
 "rival" : [
-"UK"
+"TENN"
 ],
 "defCoordinator" : {
 "contractLength" : "3",
@@ -587,7 +587,7 @@
 "confTeams" : [
 {
 "abbreviation" : "OSU",
-"prestige" : "90",
+"prestige" : "93",
 "hexColor" : "#BB0000",
 "rivalryNames" : {
 
@@ -755,7 +755,7 @@
 },
 {
 "abbreviation" : "MICH",
-"prestige" : "80",
+"prestige" : "87",
 "hexColor" : "#00274C",
 "rivalryNames" : {
 
@@ -795,13 +795,13 @@
 "contractLength" : "6",
 "startYear" : "2021",
 "age" : "43",
-"ratOff" : "73",
+"ratOff" : "88",
 "cumulativePrestige" : "25",
-"ratDef" : "69",
+"ratDef" : "89",
 "homeState" : "Missouri",
-"ratPot" : "82",
+"ratPot" : "89",
 "hometown" : "Howells",
-"ratTalent" : "49",
+"ratTalent" : "70",
 "baselinePrestige" : "80",
 "name" : "Jim Harbaugh",
 "contractYear" : "1"
@@ -811,7 +811,7 @@
 },
 {
 "abbreviation" : "IOWA",
-"prestige" : "77",
+"prestige" : "84",
 "hexColor" : "#FFCD00",
 "rivalryNames" : {
 
@@ -923,7 +923,7 @@
 },
 {
 "abbreviation" : "MSU",
-"prestige" : "70",
+"prestige" : "85",
 "hexColor" : "#18453B",
 "rivalryNames" : {
 
@@ -979,7 +979,7 @@
 },
 {
 "abbreviation" : "MINN",
-"prestige" : "63",
+"prestige" : "78",
 "hexColor" : "#7A0019",
 "rivalryNames" : {
 
@@ -1194,13 +1194,13 @@
 "contractLength" : "6",
 "startYear" : "2021",
 "age" : "46",
-"ratOff" : "69",
+"ratOff" : "91",
 "cumulativePrestige" : "25",
-"ratDef" : "67",
+"ratDef" : "90",
 "homeState" : "Texas",
-"ratPot" : "70",
+"ratPot" : "95",
 "hometown" : "Mount Plymouth",
-"ratTalent" : "82",
+"ratTalent" : "90",
 "baselinePrestige" : "90",
 "name" : "Lincoln Riley",
 "contractYear" : "1"
@@ -1210,7 +1210,7 @@
 },
 {
 "abbreviation" : "OKST",
-"prestige" : "76",
+"prestige" : "86",
 "hexColor" : "#FF7300",
 "rivalryNames" : {
 
@@ -1266,7 +1266,7 @@
 },
 {
 "abbreviation" : "ISU",
-"prestige" : "67",
+"prestige" : "83",
 "hexColor" : "#C8102E",
 "rivalryNames" : {
 
@@ -1322,7 +1322,7 @@
 },
 {
 "abbreviation" : "MIZZ",
-"prestige" : "65",
+"prestige" : "74",
 "hexColor" : "#F1B82D",
 "rivalryNames" : {
 
@@ -1378,7 +1378,7 @@
 },
 {
 "abbreviation" : "NEB",
-"prestige" : "60",
+"prestige" : "69",
 "hexColor" : "#E41C38",
 "rivalryNames" : {
 
@@ -1434,7 +1434,7 @@
 },
 {
 "abbreviation" : "KSU",
-"prestige" : "55",
+"prestige" : "74",
 "hexColor" : "#512888",
 "rivalryNames" : {
 
@@ -1546,7 +1546,7 @@
 },
 {
 "abbreviation" : "SCAR",
-"prestige" : "45",
+"prestige" : "66",
 "hexColor" : "#73000A",
 "rivalryNames" : {
 
@@ -1602,7 +1602,7 @@
 },
 {
 "abbreviation" : "WVU",
-"prestige" : "47",
+"prestige" : "59",
 "hexColor" : "#002D72",
 "rivalryNames" : {
 
@@ -1658,7 +1658,7 @@
 },
 {
 "abbreviation" : "KU",
-"prestige" : "25",
+"prestige" : "35",
 "hexColor" : "#0051BA",
 "rivalryNames" : {
 
@@ -1721,7 +1721,7 @@
 "confTeams" : [
 {
 "abbreviation" : "UT",
-"prestige" : "88",
+"prestige" : "77",
 "hexColor" : "#BF5700",
 "rivalryNames" : {
 
@@ -1777,7 +1777,7 @@
 },
 {
 "abbreviation" : "TAMU",
-"prestige" : "85",
+"prestige" : "87",
 "hexColor" : "#500000",
 "rivalryNames" : {
 
@@ -1889,7 +1889,7 @@
 },
 {
 "abbreviation" : "SMU",
-"prestige" : "59",
+"prestige" : "70",
 "hexColor" : "#C8102E",
 "rivalryNames" : {
 
@@ -1945,7 +1945,7 @@
 },
 {
 "abbreviation" : "ARK",
-"prestige" : "60",
+"prestige" : "83",
 "hexColor" : "#9D2235",
 "rivalryNames" : {
 
@@ -2001,7 +2001,7 @@
 },
 {
 "abbreviation" : "HOU",
-"prestige" : "55",
+"prestige" : "73",
 "hexColor" : "#C8102E",
 "rivalryNames" : {
 
@@ -2057,7 +2057,7 @@
 },
 {
 "abbreviation" : "BAY",
-"prestige" : "55",
+"prestige" : "85",
 "hexColor" : "#003015",
 "rivalryNames" : {
 
@@ -2113,7 +2113,7 @@
 },
 {
 "abbreviation" : "TTU",
-"prestige" : "50",
+"prestige" : "60",
 "hexColor" : "#CC0000",
 "rivalryNames" : {
 
@@ -2169,7 +2169,7 @@
 },
 {
 "abbreviation" : "BYU",
-"prestige" : "35",
+"prestige" : "83",
 "hexColor" : "#0F2D57",
 "rivalryNames" : {
 
@@ -2225,7 +2225,7 @@
 },
 {
 "abbreviation" : "UTAH",
-"prestige" : "35",
+"prestige" : "83",
 "hexColor" : "#BB271A",
 "rivalryNames" : {
 
@@ -2288,7 +2288,7 @@
 "confTeams" : [
 {
 "abbreviation" : "USC",
-"prestige" : "89",
+"prestige" : "82",
 "hexColor" : "#990000",
 "rivalryNames" : {
 
@@ -2344,7 +2344,7 @@
 },
 {
 "abbreviation" : "ORE",
-"prestige" : "82",
+"prestige" : "89",
 "hexColor" : "#154733",
 "rivalryNames" : {
 
@@ -2384,13 +2384,13 @@
 "contractLength" : "6",
 "startYear" : "2021",
 "age" : "51",
-"ratOff" : "75",
+"ratOff" : "89",
 "cumulativePrestige" : "25",
-"ratDef" : "70",
+"ratDef" : "85",
 "homeState" : "Georgia",
 "ratPot" : "86",
 "hometown" : "North Hills",
-"ratTalent" : "63",
+"ratTalent" : "85",
 "baselinePrestige" : "82",
 "name" : "Mario Cristobal",
 "contractYear" : "1"
@@ -2400,7 +2400,7 @@
 },
 {
 "abbreviation" : "WASH",
-"prestige" : "79",
+"prestige" : "75",
 "hexColor" : "#4B2E83",
 "rivalryNames" : {
 
@@ -2456,7 +2456,7 @@
 },
 {
 "abbreviation" : "STAN",
-"prestige" : "65",
+"prestige" : "70",
 "hexColor" : "#8C1515",
 "rivalryNames" : {
 
@@ -2512,7 +2512,7 @@
 },
 {
 "abbreviation" : "ASU",
-"prestige" : "66",
+"prestige" : "82",
 "hexColor" : "#8C1D40",
 "rivalryNames" : {
 
@@ -2568,7 +2568,7 @@
 },
 {
 "abbreviation" : "ORST",
-"prestige" : "55",
+"prestige" : "69",
 "hexColor" : "#DC4405",
 "rivalryNames" : {
 
@@ -2624,7 +2624,7 @@
 },
 {
 "abbreviation" : "CAL",
-"prestige" : "55",
+"prestige" : "51",
 "hexColor" : "#FDB515",
 "rivalryNames" : {
 
@@ -2680,7 +2680,7 @@
 },
 {
 "abbreviation" : "WSU",
-"prestige" : "50",
+"prestige" : "68",
 "hexColor" : "#981E32",
 "rivalryNames" : {
 
@@ -2736,7 +2736,7 @@
 },
 {
 "abbreviation" : "UCLA",
-"prestige" : "50",
+"prestige" : "77",
 "hexColor" : "#2D68C4",
 "rivalryNames" : {
 
@@ -2911,7 +2911,7 @@
 },
 {
 "abbreviation" : "ND",
-"prestige" : "88",
+"prestige" : "89",
 "hexColor" : "#C99700",
 "rivalryNames" : {
 
@@ -2951,11 +2951,11 @@
 "contractLength" : "6",
 "startYear" : "2021",
 "age" : "55",
-"ratOff" : "65",
+"ratOff" : "87",
 "cumulativePrestige" : "25",
-"ratDef" : "70",
+"ratDef" : "92",
 "homeState" : "Wisconsin",
-"ratPot" : "52",
+"ratPot" : "88",
 "hometown" : "Glen Riddle",
 "ratTalent" : "77",
 "baselinePrestige" : "88",
@@ -2967,7 +2967,7 @@
 },
 {
 "abbreviation" : "VT",
-"prestige" : "75",
+"prestige" : "70",
 "hexColor" : "#630031",
 "rivalryNames" : {
 
@@ -3023,7 +3023,7 @@
 },
 {
 "abbreviation" : "WAKE",
-"prestige" : "66",
+"prestige" : "83",
 "hexColor" : "#9E7E38",
 "rivalryNames" : {
 
@@ -3079,7 +3079,7 @@
 },
 {
 "abbreviation" : "UNC",
-"prestige" : "69",
+"prestige" : "74",
 "hexColor" : "#7BAFD4",
 "rivalryNames" : {
 
@@ -3135,7 +3135,7 @@
 },
 {
 "abbreviation" : "UVA",
-"prestige" : "65",
+"prestige" : "72",
 "hexColor" : "#232D4B",
 "rivalryNames" : {
 
@@ -3191,7 +3191,7 @@
 },
 {
 "abbreviation" : "FSU",
-"prestige" : "65",
+"prestige" : "72",
 "hexColor" : "#703341",
 "rivalryNames" : {
 
@@ -3247,7 +3247,7 @@
 },
 {
 "abbreviation" : "NCST",
-"prestige" : "60",
+"prestige" : "81",
 "hexColor" : "#CC0000",
 "rivalryNames" : {
 
@@ -3303,7 +3303,7 @@
 },
 {
 "abbreviation" : "MIA",
-"prestige" : "55",
+"prestige" : "75",
 "hexColor" : "#204F33",
 "rivalryNames" : {
 
@@ -3359,7 +3359,7 @@
 },
 {
 "abbreviation" : "DUKE",
-"prestige" : "50",
+"prestige" : "60",
 "hexColor" : "#003087",
 "rivalryNames" : {
 
@@ -3422,7 +3422,7 @@
 "confTeams" : [
 {
 "abbreviation" : "ILL",
-"prestige" : "89",
+"prestige" : "70",
 "hexColor" : "#DD3403",
 "rivalryNames" : {
 
@@ -3478,7 +3478,7 @@
 },
 {
 "abbreviation" : "CIN",
-"prestige" : "70",
+"prestige" : "85",
 "hexColor" : "#000000",
 "rivalryNames" : {
 
@@ -3534,7 +3534,7 @@
 },
 {
 "abbreviation" : "PITT",
-"prestige" : "65",
+"prestige" : "79",
 "hexColor" : "#003594",
 "rivalryNames" : {
 
@@ -3590,7 +3590,7 @@
 },
 {
 "abbreviation" : "UL",
-"prestige" : "65",
+"prestige" : "70",
 "hexColor" : "#AD0000",
 "rivalryNames" : {
 
@@ -3646,7 +3646,7 @@
 },
 {
 "abbreviation" : "BC",
-"prestige" : "64",
+"prestige" : "69",
 "hexColor" : "#98002E",
 "rivalryNames" : {
 
@@ -3702,7 +3702,7 @@
 },
 {
 "abbreviation" : "UCF",
-"prestige" : "60",
+"prestige" : "70",
 "hexColor" : "#B59C49",
 "rivalryNames" : {
 
@@ -4556,7 +4556,7 @@
 "confTeams" : [
 {
 "abbreviation" : "UTEP",
-"prestige" : "78",
+"prestige" : "50",
 "hexColor" : "#EF8933",
 "rivalryNames" : {
 
@@ -4612,7 +4612,7 @@
 },
 {
 "abbreviation" : "TLSA",
-"prestige" : "69",
+"prestige" : "60",
 "hexColor" : "#0F2C6E",
 "rivalryNames" : {
 
@@ -4668,7 +4668,7 @@
 },
 {
 "abbreviation" : "APST",
-"prestige" : "69",
+"prestige" : "74",
 "hexColor" : "#F7CE46",
 "rivalryNames" : {
 
